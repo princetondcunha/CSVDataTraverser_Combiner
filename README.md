@@ -11,16 +11,14 @@ Hi, I am Princeton. I have been fond of computers and technology since my childh
 The topic that brought us together is the programming language Python. We are fond of programming and have experience working with languages such as C++ and Java, among others. However, when compared to any other programming language, Python simply makes everything easier. From initialization, the syntax, the easy troubleshooting. Python is used in a wide range of technologies, and it is known for its ease of learning.
 
 ## Group Members
-### [Group Member 1]
-- **Name:** Sameer Patel
+### Sameer Patel
 - **From:** Mumbai, India
 - **Why They Chose MCDA:** Sameer had been working as a Data Scientist in India and wanted to enhance his career in this field. This course at Saint Mary's University has professors who had exposure to the industry. This is the main reason for choosing MCDA.
-- **Similar Interest:** 
+- **Info About Similar Interest:** Sameer had self-learned Python just by referring to YouTube videos during his undergrad, which eventually helped him in his career when he was tasked with creating a Proof of Concept for a business requirement.
 - **Fun Fact:** He can click his elbows.
 
-### [Group Member 2]
-- **Name:** Pranay Malusare
+### Pranay Malusare
 - **From:** Pune, India
-- **Why They Chose MCDA:** Pranay completed his Bachelor few months back and wanted to have a career in the Data Analysis and Science domain. MCDA program covers necessary topics for reaching his goals.
-- **Similar Interest:** 
-- **Fun Fact:** 
+- **Why They Chose MCDA:** Pranay completed his Bachelor's degree a few months ago. During this program, he gained interest in the field of Data Analysis and Science through his assignments. He found it enjoyable and wanted to pursue a career in the Data Analysis and Science domain. The MCDA program covers the necessary topics to help him achieve his goals.
+- **Info About Similar Interest:** Pranay had learnt Python in his undergrad. Because he had found Python programming interesting, he had done random projects with his peers.
+- **Fun Fact:** He can cook many Indian cuisines.
