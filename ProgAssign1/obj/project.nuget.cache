@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4OJyi64E74IYXLJZa4Y0ptmKAq9HzY1XIygQm0vhcYMT58ur4nzXqYnaQowT2/RlmASm0gHGxmo22JkJXUITw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\princ\\SMU_Assignments\\5510\\ASPNET_Assign1\\ProgAssign1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\princ\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

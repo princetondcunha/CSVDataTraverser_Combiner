@@ -1,0 +1,17 @@
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.exe
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.deps.json
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.runtimeconfig.json
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.dll
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.pdb
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.AssemblyReference.cache
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.AssemblyInfoInputs.cache
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.AssemblyInfo.cs
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.CoreCompileInputs.cache
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.CopyComplete
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.dll
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\refint\ProgAssign1.dll
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.pdb
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.genruntimeconfig.cache
+C:\Users\princ\SMU_Assignments\5510\ASPNET_Assign1\ProgAssign1\obj\Debug\net6.0\ref\ProgAssign1.dll
