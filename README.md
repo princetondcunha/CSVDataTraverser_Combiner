@@ -1,28 +1,17 @@
-# Git “Hello Class”
+# Readme
 
 ## Introduction
-**Name:** Princeton Hilary Dcunha
-**Preferred Email:** princeton.hilary.dcunha@smu.ca
-**A#:** A00472830
+This C# Project traverses through the directories and parses the CSV Files. The parsed CSV files are then combined into a single CSV file and placed in a folder called Output.
 
-Hi, I am Princeton. I like all types of technology and geek out a lot about anything related to Space. I've been fond of computers since my childhood, and I have completed my undergrad in the field of Mechatronics Engineering. I have worked for two multinational IT companies till now, and I have gained 5.5 years of experience in API Development, especially with the product Axway API Gateway. Learning DevOps and Data Analytics are my current career enhancement goals.
+## How to execute the Program?
+- Start the program and provide the folder path where the CSV files are placed.
+![image](https://github.com/A00472830/A00472830_MCDA5510/assets/144333687/d04a210d-bdd6-4a58-a139-670214b04819)
+- Press enter and the program starts traversing the program, followed by parsing the CSV files.
+![image](https://github.com/A00472830/A00472830_MCDA5510/assets/144333687/48e518c5-5b11-47a6-af73-25c02a2bfcac)
+- Once the program is executed, you'll get this message.
+![image](https://github.com/A00472830/A00472830_MCDA5510/assets/144333687/5e724853-da54-41a8-aa9b-89901d17ab24)
 
-## Summary of the topic that brought us together
-The topic that brought us together is the programming language Python. We are fond of programming and have experience working with languages such as C++ and Java, among others. However, when compared to any other programming language, Python simply makes everything easier. From initialization, the syntax, the easy troubleshooting. Python is used in a wide range of technologies, and it is known for its ease of learning.
-
-## Group Members
-### Sameer Patel
-- **From:** Mumbai, India
-- **Why They Chose MCDA:** Sameer had been working as a Data Scientist in India and wanted to enhance his career in this field. This course at Saint Mary's University has professors who had exposure to the industry. This is the main reason for choosing MCDA.
-- **Info About Similar Interest:** Sameer had self-learned Python just by referring to YouTube videos during his undergrad, which eventually helped him in his career when he was tasked with creating a Proof of Concept for a business requirement.
-- **Fun Fact:** He can click his elbows.
-
-### Pranay Malusare
-- **From:** Pune, India
-- **Why They Chose MCDA:** Pranay completed his Bachelor's degree a few months ago. During this program, he gained interest in the field of Data Analysis and Science through his assignments. He found it enjoyable and wanted to pursue a career in the Data Analysis and Science domain. The MCDA program covers the necessary topics to help him achieve his goals.
-- **Info About Similar Interest:** Pranay had learnt Python in his undergrad. Because he had found Python programming interesting, he had done random projects with his peers.
-- **Fun Fact:** He can cook many Indian cuisines.
-
-## Anything else related to the course that I want to share
-I expect to re-learn and rebase my knowledge of software development from this course.
-
+## Where are the output & logs saved?
+- The output & logs file paths are displayed on the console once all the tasks are executed by the program.
+![image](https://github.com/A00472830/A00472830_MCDA5510/assets/144333687/cb3e3143-678c-4937-a633-0657bec5b2ba)
+- The Output, Logs folder are placed in the same folder level as the original data folder.
